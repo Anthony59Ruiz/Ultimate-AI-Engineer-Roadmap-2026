@@ -3,6 +3,8 @@
 
 **Ultimate AI Engineer Roadmap 2026** - built specifically for your context as an AI Architect building PrinceSinghAI, PrinceSinghDev, Multi-LLM orchestration, RoadmapAI, CodeLLM, and AskAI, Global AI Search
 
+ Ultimate AI Engineer Roadmap 2026 - https://www.preparationstreet.com/trishul
+
 ## 🎥 Watch Complete Video
 
 [![Watch the video](https://img.youtube.com/vi/7Gxu-VCPJ0A/maxresdefault.jpg)](https://www.youtube.com/watch?v=7Gxu-VCPJ0A)
