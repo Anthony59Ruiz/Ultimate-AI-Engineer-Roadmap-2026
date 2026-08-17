@@ -32,15 +32,12 @@ The roadmap starts from absolute zero and goes all the way to production-grade A
 - **Phase 16** - Reinforcement Learning (RLHF, DPO, PPO)
 - **Phase 17** - AI Ethics, Safety & Governance
 
-Every phase has **3 projects** 
+Every phase has **3 projects**:
 - Easy 🟢
 - Medium 🟡
-- Hard 🔴) 
+- Hard 🔴
 
-51 projects total. The capstone is the full 
-
-
-multi-LLM platform architecture.
+51 projects total. The capstone is the full multi-LLM platform architecture.
 
 ---
 
