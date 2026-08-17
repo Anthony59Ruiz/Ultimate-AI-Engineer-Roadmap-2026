@@ -5,6 +5,12 @@
 
  Ultimate AI Engineer Roadmap 2026 - https://www.preparationstreet.com/trishul
 
+## 🧭 Specialized Tracks
+
+Niche versions of this roadmap, reframed end-to-end for a specific industry:
+
+- 🏭 **[Semiconductor Supply Chain & Logistics](roadmaps/semiconductor-supply-chain.md)** — all 17 phases + capstone re-oriented for chip fabs, OSAT, allocation, disruption risk, and export-control compliance.
+
 ## 🎥 Watch Complete Video
 
 [![Watch the video](https://img.youtube.com/vi/7Gxu-VCPJ0A/maxresdefault.jpg)](https://www.youtube.com/watch?v=7Gxu-VCPJ0A)
